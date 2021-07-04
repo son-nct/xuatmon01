@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thái Sơn. Currently, I'm studying Software Engineering at FPT University</h1>
 <h3 align="center">A passionate frontend and backend developer. Always want to develop myself !</h3>
 
-- 🔭 I’m currently working on **Jsp/Servlet and ASP.Net**
+- 🔭 I’m currently working with **Jsp/Servlet and ASP.Net**
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100007759153267**
 
